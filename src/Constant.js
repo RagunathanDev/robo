@@ -1,0 +1,5 @@
+export const CHANGE ='CHANGE';
+
+export const ROBOT_REQUEST='ROBOT_REQUEST';
+export const ROBOT_SUCCESS='ROBOT_SUCCESS';
+export const ROBOT_FAILED='ROBOT_FAILED';
